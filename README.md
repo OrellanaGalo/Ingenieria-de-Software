@@ -29,7 +29,7 @@ El programa implementa las siguientes funcionalidades:
 1. Clona este repositorio en tu máquina local:
 
    ```bash
-   git clone https://github.com/tu_usuario/gestion_base_datos_personal.git
+   git clone https://github.com/OrellanaGalo/gestion_base_datos_personal.git
    ```
 
 2. Navega a la carpeta del proyecto:
