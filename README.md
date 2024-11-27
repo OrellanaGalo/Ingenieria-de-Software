@@ -24,7 +24,7 @@ El programa implementa las siguientes funcionalidades:
 3. **Consultar Datos**: Ingresa un DNI en la interfaz para consultar los datos de una persona.
 4. **Exportar Datos**: Exporta los registros de la base de datos a un nuevo archivo CSV `basepersonal-csv-export.txt`.
 
-## Instalación
+## Instalación (Ubuntu)
 
 1. Clona este repositorio en tu máquina local:
 
